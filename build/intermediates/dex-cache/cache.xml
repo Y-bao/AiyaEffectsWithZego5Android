@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\82894521602f76db6fa94071f584811ce347d8da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_928caa12fa50432093b73bbff10801949e6d7bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\3eedf838f556d6edcfcab5eb13c02a6519bfb727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab20a5d4e30596449e1e940a022a3b6466d0e1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\ac67653b46470fa4d5670ca758f3a33a8ee0f456\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb18bd33024eac4f4763f77b4cfb250ca28fb07b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Work\LiveDemo5\app\3rdlibs\open_sdk_r5756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_8c6404e786eb1fbe4b65d788d5042dbdd3a89c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\bcb706de1d2b08f6eb7f44d07c21b7ae05bd8b5d\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_214453b83b3d79ff22af0e2804e94c43220e3dee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Work\LiveDemo5\app\libs\zegoliveroom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e34d1b639b0be0496d963fa4023216c3851d15d3">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\2\zegoliveroom_2e0f458411410af78c887fa1bfe585aaa2b183fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_160405041193cf653ec7c51d39d8012de2c7a700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\f09a328d1debabaf1b840a69b5865ceeee636330\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8607bffca05fa18908bf100c25aa6b7f7fc20227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\18380f147332bc4563cc0c7bf7b3a8c164033b23\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_93ccff3953d7987b61146ff99a1746b8307d13e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\0c930df887b8b24ae5e0ab5f3c1d66d6e2a4708a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7672a7b54026b5452df2860719d1ece56b1dd0e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\ada9b3be47ca802d7d18d2fafb44955bb55481df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fa29aa4d055bc7e7b9cd97c55dfc2cce8296285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\bcb706de1d2b08f6eb7f44d07c21b7ae05bd8b5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d14972b7e300a254cf9fe4c77dcf7a159622e3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\648e765afb2b6fc0ccb72bf577151a6c684ad040\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7a7dfa2ce95d62f031fef8fc85e53ffd963b2e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\18380f147332bc4563cc0c7bf7b3a8c164033b23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e78d34770dbbda898b121f28064e4432e9d7a672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\5c24b09f05ae8cbe7c8d548f226464664b453234\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b2de67b2b5ca05c94aa3f9ac17402177b26ac84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\d639c262238bb122db33aac09f2940302dad1d0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab9c2f1a5c61af946ee27f3df6c479570067d542">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7710bb4f3e462729588ef40852ab56aed7d8901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\ca57446f61240cca64d1bd4d004c8afdfae8981e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad335538abbdb50bbc057dbe4585a785d1f8e016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\c5ca7fe2a5f876baa105a9b97586b568ded6db9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a66b21d1041727656401574db7337b01a8b783c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Work\LiveDemo5\app\3rdlibs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_54df8fae8b941db78881612011ed158c83fa3f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_fbcf1d202351f6ffc3c3f2024ba65b7b486e8412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\47e47b9825045ec1e1427e968f358ba0bf819848\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_623875fd9b607aeed91605f1325494d812e04577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Work\LiveDemo5\app\zegovideofilterlibs\zegoimagefilter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdfb03cde1941fd8596f601f626c97c42de5d101">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\2\zegoimagefilter_cb2060a50b71a52bd9a790d7609c0659f3981c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_e0ad3ff04464f78de3bbc4628a89f7550b5b3be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\69ff20e43456afe6fe84a64a4109f59556e1eab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08bc33fde4b056fa4af797273da20ba5076fe91a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\47e47b9825045ec1e1427e968f358ba0bf819848\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f004089f65f6249cff5e64c54db106d5d1f41f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_28652a75d9f2dc0bdab5507efa63c4b2890ce953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\3eedf838f556d6edcfcab5eb13c02a6519bfb727\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_525a0567baf88fcfbaa78634f7fd571ba9602310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_dd6b4c35ab82fe0393215fb634ae401206b372e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\dfea6cb65aac8fd6b225308d521d71acfabb1187\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3134fbeef05ed831aaad779bc6afc31e68490b5">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68d18da0d532566648ae4c0a7bb2c2a1cf72d9ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\fb27cbe361db0971348a71d17a9eb6ac0abdd57c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3572a42082b07326fd828c91e87d2c7500274f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\874f5bedd4b463859727937dfbc4f2532b353ece\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a752f7377ba01ed1d8dba8da0a40b6e207c1057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\82894521602f76db6fa94071f584811ce347d8da\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d7bf65e040c57f2263c955033f918222e3283198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Work\LiveDemo5\app\libs\ve.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78d02fc83c50490013ca205cba49b14d6f7b1300">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\2\ve_849896d61f77532b5edaa965c06af6198169a58d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aiya\.android\build-cache\432eb71ddd78c4772868fc173f33fecb3f0ce7af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android\Work\LiveDemo5\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdd7848d93e498ac9bae365b6fe81198e1f072ac\classes.dex" />
+    </item>
+
+</items>
