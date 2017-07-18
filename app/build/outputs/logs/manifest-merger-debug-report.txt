@@ -95,7 +95,7 @@ MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\aiya\.and
 MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\aiya\.android\build-cache\3eedf838f556d6edcfcab5eb13c02a6519bfb727\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\aiya\.android\build-cache\47e47b9825045ec1e1427e968f358ba0bf819848\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.0] C:\Users\aiya\.android\build-cache\82894521602f76db6fa94071f584811ce347d8da\output\AndroidManifest.xml:25:5-20
-MERGED from [:AiyaEffectsSDK-v3.2.0:] C:\Users\aiya\.android\build-cache\8d1c90eec5d46d9b25ba7040f8fbe8810e01b739\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:AiyaEffectsSDK-v3.3.0:] C:\Users\aiya\.android\build-cache\d668b038f1606bbe9129795e97db37a9c7b5b5f6\output\AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\aiya\.android\build-cache\f09a328d1debabaf1b840a69b5865ceeee636330\output\AndroidManifest.xml:24:5-20
 	android:label
 		ADDED from D:\Android\Work\LiveDemo5\app\src\main\AndroidManifest.xml:30:9-41
@@ -273,7 +273,6 @@ ADDED from D:\Android\Work\LiveDemo5\app\src\main\AndroidManifest.xml:110:9-114:
 		ADDED from D:\Android\Work\LiveDemo5\app\src\main\AndroidManifest.xml:111:13-78
 uses-sdk
 INJECTED from D:\Android\Work\LiveDemo5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\aiya\.android\build-cache\ec3455e86c9b99d1da8b15de6cd7c1aa8872f8bf\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:design:25.0.0] C:\Users\aiya\.android\build-cache\874f5bedd4b463859727937dfbc4f2532b353ece\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\aiya\.android\build-cache\648e765afb2b6fc0ccb72bf577151a6c684ad040\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\aiya\.android\build-cache\ada9b3be47ca802d7d18d2fafb44955bb55481df\output\AndroidManifest.xml:20:5-44
@@ -292,7 +291,7 @@ MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\aiya\.andro
 MERGED from [com.android.support:support-compat:25.0.0] C:\Users\aiya\.android\build-cache\82894521602f76db6fa94071f584811ce347d8da\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.tencent.bugly:crashreport:2.2.2] C:\Users\aiya\.android\build-cache\dfea6cb65aac8fd6b225308d521d71acfabb1187\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.tencent.bugly:nativecrashreport:3.0] C:\Users\aiya\.android\build-cache\56979dea3ad913be9022972c131d65d4ee88182f\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:AiyaEffectsSDK-v3.2.0:] C:\Users\aiya\.android\build-cache\8d1c90eec5d46d9b25ba7040f8fbe8810e01b739\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:AiyaEffectsSDK-v3.3.0:] C:\Users\aiya\.android\build-cache\d668b038f1606bbe9129795e97db37a9c7b5b5f6\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\aiya\.android\build-cache\f09a328d1debabaf1b840a69b5865ceeee636330\output\AndroidManifest.xml:20:5-22:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.0.0] C:\Users\aiya\.android\build-cache\874f5bedd4b463859727937dfbc4f2532b353ece\output\AndroidManifest.xml:23:9-59

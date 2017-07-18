@@ -32,12 +32,12 @@
         "source": "C:\\Users\\aiya\\.android\\build-cache\\648e765afb2b6fc0ccb72bf577151a6c684ad040\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Android\\Work\\LiveDemo5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\aiya\\.android\\build-cache\\648e765afb2b6fc0ccb72bf577151a6c684ad040\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "D:\\Android\\Work\\LiveDemo5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "C:\\Users\\aiya\\.android\\build-cache\\648e765afb2b6fc0ccb72bf577151a6c684ad040\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Work\\LiveDemo5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\aiya\\.android\\build-cache\\648e765afb2b6fc0ccb72bf577151a6c684ad040\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "D:\\Android\\Work\\LiveDemo5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
