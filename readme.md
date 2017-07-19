@@ -1,0 +1,20 @@
+# 说明
+在Zegolive SDK中集成特效AiyaEffectsSDK
+
+# 更多
+[Android版AiyaEffectsSDK](https://github.com/aiyaapp/AiyaEffectsAndroid)
+
+[IOS版AiyaEffectsSDK](https://github.com/aiyaapp/AiyaEffectsIOS)
+
+[Android版集成到金山云的示例](https://github.com/aiyaapp/AiyaEffectsWithKSVCAndroid)
+
+[Android版集成到ZegoLive的示例](https://github.com/aiyaapp/AiyaEffectsWithZegoAndroid)
+
+[Android版集成到ZegoLive5的示例](https://github.com/aiyaapp/AiyaEffectsWithZego5Android)
+
+[IOS版集成到金山云的示例](https://github.com/aiyaapp/AiyaEffectsWithKSVCIOS)
+
+[IOS版集成到ZegoLive的示例](https://github.com/aiyaapp/AiyaEffectsWithZegoIOS)
+
+# 联系方式
+邮箱: <liudawei@aiyaapp.com>
